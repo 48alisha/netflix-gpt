@@ -1,11 +1,11 @@
-
+import Body from "./components/Body"
 function App() {
-  console.log("Hello");
+  
  
   return (
+    <Body/>
   
-    <p className="text-2xl  text-red-800">Hello </p>
-  )
+  );
 }
 
 export default App

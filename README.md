@@ -1,6 +1,7 @@
 # Netflix GPT
 -Create React App using  vite
 -Configured TailwindCss
+-
 
 
 # Features:
